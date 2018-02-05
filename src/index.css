@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(https://ih0.redbubble.net/image.151630010.0653/flat,800x800,075,f.u2.jpg);
+  background-size: 100% 950px;
+background-repeat: no-repeat;
+}
+
+h1{
+  text-align: center; 
+}
+
+#Input1{
+  text-align: center;
+	left: calc(50% - 250px);
+  padding: 20px;
+  width: 500px;
+  font-size: x-large;
+}
+
+form {
+    position: relative;
+    background: #10c6ca;
+    border: 3px solid #281978;
+    padding: 10px;
+    font-family: Georgia;
+    font-size: large;
+    width: 1000px;
+}
